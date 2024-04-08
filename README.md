@@ -1,2 +1,2 @@
 # Farmer_Advisory_System_GemmaChatbot
-![image](https://github.com/adititiwari16/Farmer_Advisory_System_GemmaChatbot/assets/95582795/36a5d894-de80-4e84-a3ca-29156736d6c9)
+<img width="1470" alt="image" src="https://github.com/adititiwari16/Farmer_Advisory_System_GemmaChatbot/assets/95582795/c46a7efa-a6a3-4be8-a2f3-9bfe0bcd1805">
