@@ -1,2 +1,2 @@
 # Farmer_Advisory_System_GemmaChatbot
-![Uploading Screenshot 2024-04-08 at 12.23.18 PM.png…]()
+![image](https://github.com/adititiwari16/Farmer_Advisory_System_GemmaChatbot/assets/95582795/36a5d894-de80-4e84-a3ca-29156736d6c9)
